@@ -1,0 +1,2 @@
+# first-typeScript
+learning typescript
